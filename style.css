@@ -126,8 +126,8 @@ body {
 }
 
 .home .heart {
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
   background-color: white;
   display: flex;
   border-radius: 50%;
